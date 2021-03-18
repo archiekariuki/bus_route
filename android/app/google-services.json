@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607117099432",
+    "firebase_url": "https://busroute-d7092-default-rtdb.firebaseio.com",
+    "project_id": "busroute-d7092",
+    "storage_bucket": "busroute-d7092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607117099432:android:d0b458d5ccc133b0d15d9d",
+        "android_client_info": {
+          "package_name": "tech.datawits.bus_route"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607117099432-s1lvd3jdug5h9ppkk4em1nltfrltmlo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgVCkwQyeHZfPSJRaguMgIHhMmAPIuFbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607117099432-s1lvd3jdug5h9ppkk4em1nltfrltmlo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
